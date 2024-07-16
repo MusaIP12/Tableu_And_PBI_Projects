@@ -4,7 +4,9 @@
 
 ## London Bikeshare 
 
-![London_bikeshare](London_bikeshare/London_Bike Share.png)
+
+![Bikeshare Visualisation](London_bikeshare/London_Bike Share.png)
+
 
 Description of the Tableau project.
 
@@ -12,8 +14,7 @@ Description of the Tableau project.
 
 ![Unemployment_Analysis](Unemployment_Analysis_India/Unemployment_Vizz_India.png)
 
-Description of another project.
 
 
-Unemployment_Analysis_India/Unemployment_Vizz_India.png
+
 
