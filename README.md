@@ -7,6 +7,6 @@
 
 ## India Unemployment Analysis
 
-![Unemployment_Analysis](Unemployment_Analysis_India/Unemployment_Vizz_India.png)
+![Unemployment_Analysis](Unemployment_Analysis_India/UnemploymentAnalysis.png)
 
 
